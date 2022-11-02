@@ -1,6 +1,6 @@
 # Native Web Component gallery for IOT (no runtime - browser native)
 
-IOT component gallery & boilerplate for D4 LitElements (Web components)
+IOT component gallery & boilerplate for D4 native Web Components (Lit Elements)
 
 - Component for showing temperature for different locations (long & lat)
 
